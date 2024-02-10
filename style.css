@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: blueviolet;
+    background-color: #C71585;
 }
 
 .wrapper{
@@ -28,12 +28,12 @@ body{
 
 i{
     font-size: 7.5em;
-    color: blueviolet;
+    color: red;
 }
 
 h2{
     font-size: 3em;
-    color: blueviolet;
+    color: violet;
     margin: 15px 0;
 }
 
@@ -52,7 +52,7 @@ button{
     font-size: 1.2em;
     font-weight: 600;
     border-radius: 30px;
-    border: 2px solid blueviolet;
+    border: 2px solid violet;
     outline: none;
     cursor: pointer;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
@@ -60,7 +60,7 @@ button{
 
 button:nth-child(1){
     margin-left: -200px;
-    background: blueviolet;
+    background: violet;
 }
 
 button:nth-child(2){
